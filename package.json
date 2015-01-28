@@ -1,0 +1,23 @@
+{
+  "name": "annoyifier-jshint",
+  "version": "0.0.1",
+  "description": "An especially annoying notifier for jshint, use it as a reporter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notifier",
+    "jshint"
+  ],
+  "author": "Riviera Partners <mitani@rivierapartners.com>",
+  "license": "BSD",
+  "dependencies": {
+    "jshint": "^2.6.0",
+    "node-notifier": "^4.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0"
+  }
+}
