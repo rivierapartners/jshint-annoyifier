@@ -3,6 +3,11 @@
 var notifier = require('node-notifier');
 
 module.exports = {
+    setNotifier: function(notifier) {
+        notifier = notifier
+
+    },
+
     reporter: function(errors) {
         var errorsPerFile = {}
         errors.map(function(error) {
