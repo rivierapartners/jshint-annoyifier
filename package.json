@@ -1,6 +1,6 @@
 {
-  "name": "annoyifier-jshint",
-  "version": "0.0.1",
+  "name": "jshint-annoyifier",
+  "version": "0.0.5",
   "description": "An especially annoying notifier for jshint, use it as a reporter.",
   "main": "index.js",
   "scripts": {
