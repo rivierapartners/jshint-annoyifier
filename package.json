@@ -8,20 +8,18 @@
   },
   "keywords": [
     "notifier",
-    "jshint"
+    "jshint",
+    "reporter",
+    "jshint-reporter"
   ],
   "author": "Riviera Partners <mitani@rivierapartners.com>",
   "license": "BSD",
   "dependencies": {
-    "jshint": "^2.6.0",
     "node-notifier": "^4.1.0"
   },
   "devDependencies": {
     "chai": "^1.10.0",
-    "gulp": "^3.8.10",
-    "gulp-jshint": "^1.9.0",
-    "mocha": "^2.1.0",
     "sinon": "^1.12.2",
-    "sinon-chai": "^2.6.0"
+    "jshint": "^2.6.0"
   }
 }
